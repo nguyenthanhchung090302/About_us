@@ -1,38 +1,139 @@
-.App {
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.img{
+  width: 100px;
+
+}
+.nav-3{
+  display: flex;
+}
+.nav-4{
+  display: flex;
+  padding-top: 50px;
+  padding-left: 80px;
+}
+.aboutus{
+  width: 1000px;
+  height: 100%;
+  /* border: 1px solid black ; */
+  margin-left: 150px;
+}
+.nav-3 h2{
+padding-top: 30px;
+}
+
+.nav-3 h4{
+  padding-left: 60px;
+  
+  
+}
+
+.br{
+  padding-top: 30px;
+  
+}
+.icon{
+  padding-left: 180px;
+  
+}
+.use{
+  padding-left: 50px;
+}
+.content{
+  width: 800px;
+  padding-left: 100px;
+}
+.h1{
+  padding-top: 50px;
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.content-1{
+  padding-top: 10px;
+  padding-left: 100px;
+  color: #AFADB5;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.videos{
+  padding-right: 30px;
+  padding-top: 20px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.information{
+  margin-top: 50px;
+  width: 400px;
+}
+.information h6{
+color: #FFB23F;
+}
+.information h2{
+  padding-top: 10px;
+}
+.so{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  padding-top: 30px;
 }
-
-.App-link {
-  color: #61dafb;
+.so h2{
+  padding-left: 50px;
 }
+.chu{
+  display: flex;
+  padding-top: 10px;
+  color: #AFADB5;
+}
+.chu p{
+  padding-left: 20px;
+}
+.chung{
+  display: flex;
+  width: 900px;
+}
+.information-2 {
+  margin-top: 50px;
+  width: 450px;
+  margin-left: 50px;
+  
+}
+.one{
+  padding-top: 20px;
+  display: flex;
+  
+}
+.one-2{
+  padding-left: 20px;
+}
+.our{
+  color: #FFB23F;
+}
+.team{
+  padding-top: 10px;
+  display: flex;
+  
+}
+.team h2{
+  width: 500px;
+}
+.team p{
+  width: 500px;
+  padding-left: 50px;
+  color: #AFADB5;
+}
+.ourteam{
+  
+  width: 1000px;
+  padding-left: 100px;
+  padding-top: 100px;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+}
+.img-team{
+  padding-top: 50px;
+}
+.col-3{
+  padding-left: 50px;
+}
+.img-col-3{
+  padding-left: 30px;
+}
+.aboutus{
+
 }
