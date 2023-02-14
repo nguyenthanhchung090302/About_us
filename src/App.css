@@ -129,11 +129,69 @@ color: #FFB23F;
   padding-top: 50px;
 }
 .col-3{
-  padding-left: 50px;
+  
+  display: flex;
 }
-.img-col-3{
+.col-4{
+  padding-top: 50px;
+  
+  display: flex;
+}
+.img-2-3{
   padding-left: 30px;
 }
-.aboutus{
-  font-size: 100px;
+.img-2-3 p{
+  color: #AFADB5;
 }
+.are{
+  
+  margin-top: 70px;
+  display: flex;
+}
+.are b{
+  width: 200px;
+
+}
+.button{
+  background-color: #518581;
+  border: none;
+  width: 100px;
+  height: 20px;
+  margin-top: 10px;
+  margin-left: 50%;
+}
+ hr{
+margin-top: 20px;
+}
+.end-1{
+  display: flex;
+  padding-left: 100px;
+  padding-top: 50px;
+}
+.img-end{
+  width: 50px;
+}
+.end-you{
+  display: flex;
+}
+.end-1 h2{
+  padding-top: 10px;
+}
+.end-2{
+  width: 450px;
+  padding-left: 110px;
+  padding-top: 20px;
+}
+.lalasia-1{
+  display: flex;
+  padding-top: 60px;
+  padding-left: 100px;
+}
+.lalasia{
+  padding-left: 30px;
+}
+.lalasia p{
+  padding-top: 10px;
+}
+
+
