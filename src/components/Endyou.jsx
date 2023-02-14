@@ -27,21 +27,21 @@ function Endyou() {
           <p>Kitchen Set</p>
         </div>
         <div className='lalasia'>
-          <b>Product</b>
-          <p>New Arrivals</p>
-          <p>Best Selling</p>
-          <p>Home Decor</p>
-          <p>Kitchen Set</p>
+          <b>Services</b>
+          <p>Catalog</p>
+          <p>Blog</p>
+          <p>FaQ</p>
+          <p>Pricing</p>
         </div>
         <div className='lalasia'>
-          <b>Product</b>
-          <p>New Arrivals</p>
-          <p>Best Selling</p>
-          <p>Home Decor</p>
-          <p>Kitchen Set</p>
+          <b>Follow Us</b>
+          <p>Facebook</p>
+          <p>Instagram</p>
+          <p>Twitter</p>         
         </div>
       </div>
     </div>
+    
   );
 }
 
